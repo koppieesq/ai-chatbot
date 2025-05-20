@@ -4,6 +4,7 @@
   "type": "drupal-recipe",
   "license": "GPL-2.0-or-later",
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "drupal/ai": "^1.0",
     "drupal/ai_provider_openai": "^1.0",

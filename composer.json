@@ -3,6 +3,7 @@
   "description": "Drupal recipe for AI chatbot with OpenAI and Pinecone integration.",
   "type": "drupal-recipe",
   "license": "GPL-2.0-or-later",
+  "minimum-stability": "dev",
   "require": {
     "drupal/ai": "*",
     "drupal/ai_provider_openai": "*",

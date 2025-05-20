@@ -1,0 +1,12 @@
+{
+  "name": "webcamp2025/ai-chatbot-recipe",
+  "description": "Drupal recipe for AI chatbot with OpenAI and Pinecone integration.",
+  "type": "drupal-recipe",
+  "require": {
+    "drupal/ai": "*",
+    "drupal/ai_provider_openai": "*",
+    "drupal/ai_vdb_provider_pinecone": "*",
+    "drupal/key": "*",
+    "drupal/search_api": "*"
+  }
+}

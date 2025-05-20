@@ -1,0 +1,9 @@
+name: 'AI Chatbot'
+description: 'Modules for an AI chatbot using OpenAI and Pinecone integration.'
+type: 'Site'
+install:
+  - ai
+  - ai_provider_openai
+  - ai_vdb_provider_pinecone
+  - key
+  - search_api

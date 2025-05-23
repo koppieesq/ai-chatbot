@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "drupal/ai": "^1.0",
+    "drupal/ai": "^1.1@beta",
     "drupal/ai_provider_openai": "^1.0",
     "drupal/ai_vdb_provider_pinecone": "^1.1@beta",
     "drupal/key": "^1.20",

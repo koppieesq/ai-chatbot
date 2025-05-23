@@ -11,7 +11,6 @@
     "drupal/ai_vdb_provider_pinecone": "^1.1@beta",
     "drupal/key": "^1.20",
     "drupal/search_api": "^1.38",
-    "drupal/ai_agents": "^1.1@beta",
     "cweagans/composer-patches": "^1.7"
   },
   "extra": {

@@ -7,3 +7,4 @@ install:
   - ai_vdb_provider_pinecone
   - key
   - search_api
+  - ai_chatbot

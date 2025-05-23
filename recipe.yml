@@ -8,3 +8,4 @@ install:
   - key
   - search_api
   - ai_chatbot
+  - ai_agents

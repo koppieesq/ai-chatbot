@@ -6,18 +6,12 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "drupal/ai": "^1.1@beta",
-    "drupal/ai_provider_openai": "^1.0",
-    "drupal/ai_vdb_provider_pinecone": "^1.1@beta",
-    "drupal/key": "^1.20",
-    "drupal/search_api": "^1.38",
-    "cweagans/composer-patches": "^1.7"
-  },
-  "extra": {
-    "patches": {
-      "drupal/ai": {
-        "AI module patch for MR 628": "https://git.drupalcode.org/project/ai/-/merge_requests/628.patch"
-      }
-    }
+      "drupal/ai": "^1.0",
+      "drupal/ai_assistant_api": "^1.0",
+      "drupal/ai_chatbot": "^1.0",
+      "drupal/ai_provider_openai": "^1.0",
+      "drupal/ai_vdb_provider_pinecone": "^1.0@beta",
+      "drupal/key": "^1.20",
+      "drupal/search_api": "^1.38"
   }
 }
